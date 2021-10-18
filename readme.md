@@ -1,6 +1,6 @@
-#nome: 
+nome: 
 victor ferro
-##curso: 
+curso: 
 ciência da computação 
-##cidade
+cidade
 : Maceió
